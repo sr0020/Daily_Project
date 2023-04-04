@@ -1,2 +1,12 @@
-# File_Automation
-File Automation Tool
+# 파일 자동화 툴
+- 개발과정에서 기능 계속 추가해나갈 예정
+
+### 기능
+- 파일 복사
+- 파일 이동
+- 파일 삭제
+
+### 기술스택
+- python os, shutil 모듈
+- pyqt5
+
