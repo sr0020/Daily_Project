@@ -6,7 +6,7 @@ from flask import Flask, render_template, request
 db = pymysql.connect(host="localhost",
                      port=3306,
                      user='root',
-                     passwd='sarah164!!', # 빼 놓기
+                     passwd='', 
                      db='mysql',
                      charset='utf8')
 
