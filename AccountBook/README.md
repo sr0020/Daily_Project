@@ -7,8 +7,7 @@
 ### UI
 ![img](AccountBook.png)
 
-### 실제 UI 및 엑셀 (qt table 부분(내역조회 부분) 오류로 수정 예정)
-![img](temp.JPG)
+### 실제 UI 및 엑셀 
 ![img](excel_temp.JPG)
 
 ### 기술 스택
