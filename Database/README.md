@@ -8,4 +8,4 @@
 ![img](../Database/img/image.jpg)
 
 ### 기술 스택
-- python, flask, mysql
+- Python, Flask, MySQL
